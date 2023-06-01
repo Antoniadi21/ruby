@@ -7,4 +7,3 @@ marks.each {
 }
 
 puts "Оценок ниже 4: #{count}"
-gets
